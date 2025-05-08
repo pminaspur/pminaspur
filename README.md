@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 ---
 ### 👨‍💻 About Me :
-<h1 align="center">Hi 👋, I'm Pushpa Laxman</h1>
-<h3 align="center">A passionate software developer</h3>
+Welcome to My GitHub! 
+I am currently a student at Southern New Hampshire University, pursuing a Bachelor of Science in Computer Science. This GitHub Pages account is designed to serve as my digital portfolio for CS-499 and to graduate with my Bachelor of Science in Computer Science.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Throughout my studies, I have had a strong passion for my work. Whether I'm designing aesthetically pleasing front-end interfaces or building reliable back-end systems, each project I engaged in during this program allowed me to craft innovative, sustainable, and meaningful software solutions. The key takeaway here is that good engineers are constantly learning. 
 
+I created this GitHub as a place to document and share my continuous learning and improvement in the ever-evolving world of technology.
 ---
 
 ### 🛠️ Languages and Tools :
