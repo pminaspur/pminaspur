@@ -22,7 +22,8 @@ I am currently a student at Southern New Hampshire University, pursuing a Bachel
 
 Throughout my studies, I have had a strong passion for my work. Whether I'm designing aesthetically pleasing front-end interfaces or building reliable back-end systems, each project I engaged in during this program allowed me to craft innovative, sustainable, and meaningful software solutions. The key takeaway here is that good engineers are constantly learning. 
 
-I created this GitHub as a place to document and share my continuous learning and improvement in the ever-evolving world of technology.
+I created this GitHub as a place to document and share my ongoing journey of learning and growth in the constantly changing realm of technology.
+
 ---
 
 ### 🛠️ Languages and Tools :
