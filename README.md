@@ -37,3 +37,10 @@ I created this GitHub as a place to document and share my continuous learning an
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=pminaspur&theme=algolia&show_icons=true)](https://github.com/pminaspur)        
+
+
+
+
+
